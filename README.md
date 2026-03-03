@@ -60,8 +60,11 @@ data-workbench-app/
 ## ⚙️ Installation (Local Setup)
 
 git clone https://github.com/ArchitP9andey/data-workbench-app.git
+
 cd data-workbench-app
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ## 🎯 Future Improvements
