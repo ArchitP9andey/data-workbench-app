@@ -51,10 +51,15 @@ The application simplifies data analysis by providing automated summaries, visua
 
 ## 📂 Project Structure
 data-workbench-app/
+
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── runtime.txt
+
 └── README.md
 
 ## ⚙️ Installation (Local Setup)
